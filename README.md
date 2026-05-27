@@ -8,6 +8,7 @@ An interactive **Power BI dashboard** analyzing pizza sales data across 5,000+ o
 ## 📊 Dashboard Preview
 
 > Screenshots from the `dashboard preview/` folder
+<img width="1343" height="732" alt="image" src="https://github.com/user-attachments/assets/8c71488b-4a43-426e-bbc3-bdbfa3c39b16" />
 
 <!-- Add your dashboard screenshots here -->
 <!-- ![Home Page](dashboard%20preview/home.png) -->
